@@ -1,0 +1,174 @@
+
+
+
+
+
+
+
+/* -------------------------------(Chapter 39 to 42)--------------------------- */
+
+
+/* -------------------------------(Chapter 43 to 48)--------------------------- */
+
+
+
+
+div {
+    padding: 20px;
+    margin-top: 30px;
+}
+
+div img {
+    border: 2px solid black;
+    height: 350px;
+    width: 24%;
+    margin-top: 30px;
+}
+
+a {
+    font-size: large;
+    text-decoration: none;
+    padding: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+
+table {
+    width: 100%;
+}
+
+table button {
+    width: 100%;
+    cursor: pointer;
+}
+#pic {
+    margin: 20px;
+    height: 250px;
+    width: 300px;
+}
+#onClickCounter {
+    padding: 10px;
+}
+#onClickCounter p {
+    padding: 10px;
+    color: black;
+}
+
+
+
+
+
+/* -------------------------------(Chapter 48 to 52)--------------------------- */
+
+
+
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+#SignUp {
+    padding: 20px;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#SignUp input[type = "text"] {
+    padding: 6px;
+    margin-top: 20px;
+    font-size: 15px;
+    width: 225px;
+}
+
+#SignUp input[type = "email"] {
+    padding: 6px;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 50px;
+    width: 225px;
+}
+
+#SignUp input[type = "password"] {
+    padding: 6px;
+    margin-top: 20px;
+    font-size: 15px;
+    margin-left: 12px;
+    width: 225px;
+}
+
+#btnSubmit {
+    padding: 4px 15px;
+    margin-top: 20px;
+    font-size: 20px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
+
+#btnSubmit:hover {
+    color: rgb(44, 31, 31);
+}
+
+#displayInfo {
+    padding: 10px;
+    font-size: 30px;
+}
+
+
+/*  */
+
+/* #AboutMe {
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+/*  */
+
+
+/* #mttable{
+    width: 100%;
+} */ 
+
+
+
+/* <!-- -------------------------------------------(chapter 53 to 58 )------------------------------------------- --> */
+
+
+
+/* task 1 */
+/* 
+.img{
+    width: 150px;
+    height: 150px;
+    cursor: pointer;
+  }
+  
+  .bigImage{
+    width: 300px;
+    height: 300px;
+  }
+  
+  
+  
+  /* task 2 */
+  
+  /* .main {
+    padding: 16px;
+    margin-top: 30px;
+  }
+  .main img {
+      max-width: 100%;
+      height: auto;
+  }
+  .button {
+    width: 300px;
+    height: 60px;
+  } */ 
+
+
+
+
+
+  /* // <!-- -------------------------------------------(chapter 59 to 67 )------------------------------------------- --> */
